@@ -1,0 +1,21 @@
+tanggal,wilayah,penyebab,jumlah_alert,luas_ha,keyakinan_model,catatan
+2026-01-08,Asia Tenggara,Pertanian skala kecil,18,42.5,82.4,Pembukaan lahan dekat permukiman
+2026-01-15,Asia Tenggara,Penebangan selektif,12,27.2,78.5,Aktivitas dekat jaringan jalan
+2026-01-23,Asia Tenggara,Pertambangan,9,64.8,86.1,Area terbuka dengan pola tidak beraturan
+2026-02-04,Asia Tenggara,Pertanian skala besar,14,88.3,84.7,Pembukaan lahan luas
+2026-02-12,Asia Tenggara,Kebakaran,11,53.1,69.2,Perlu verifikasi karena bisa tertukar dengan gangguan alami
+2026-02-20,Asia Tenggara,Gangguan alami,7,19.4,61.8,Perubahan dekat sungai
+2026-01-06,Amerika Selatan,Pertanian skala besar,24,146.2,88.5,Pola bukaan lahan besar
+2026-01-18,Amerika Selatan,Kebakaran,21,112.4,76.4,Indikasi area terbakar
+2026-02-02,Amerika Selatan,Pertanian skala kecil,10,31.6,80.1,Pembukaan lahan skala kecil
+2026-02-14,Amerika Selatan,Kebakaran,28,172.8,73.7,Musim kering meningkatkan risiko
+2026-02-25,Amerika Selatan,Penebangan selektif,8,23.8,79.6,Perubahan terfragmentasi
+2026-01-09,Afrika Tengah,Pertanian skala kecil,25,48.6,83.9,Pola bukaan kecil tersebar
+2026-01-21,Afrika Tengah,Penebangan selektif,17,39.5,77.2,Perubahan pada area berhutan
+2026-02-07,Afrika Tengah,Pertambangan,6,35.7,81.3,Perlu pemeriksaan lapangan
+2026-02-16,Afrika Tengah,Gangguan alami,10,28.9,58.4,Area dataran banjir
+2026-02-27,Afrika Tengah,Pertanian skala kecil,22,44.2,85.0,Aktivitas musiman
+2026-03-03,Asia Tenggara,Pertambangan,13,71.6,87.2,Area terbuka bertambah
+2026-03-10,Asia Tenggara,Penebangan selektif,16,34.7,80.6,Area terfragmentasi di Kalimantan
+2026-03-12,Amerika Selatan,Kebakaran,19,121.3,74.9,Perlu konfirmasi dengan data sensor kebakaran
+2026-03-18,Afrika Tengah,Pertanian skala kecil,20,41.8,84.3,Pola pembukaan lahan tersebar
